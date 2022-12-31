@@ -1,2 +1,2 @@
 # SpaceSkillbox
-![ScreenShot](https://raw.github.com/Krpfsh/SpaceSkillbox/README.md/C:\Users\KARP\Documents\GitHub\SpaceSkillbox/Menu.jpg)
+<img src="C:\Users\KARP\Documents\GitHub\SpaceSkillbox/Menu.jpg" width="500">
